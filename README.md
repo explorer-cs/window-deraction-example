@@ -1,5 +1,10 @@
 # 关于Qt顶级窗口装饰的几个方法
 
+## 编译依赖
+- qt5-default
+- libqt5x11extras5-dev
+- qtbase5-private-dev
+
 ## Qt::FrameLessWindowHint
 这个大家都比较熟悉，我就不多做介绍了
 
